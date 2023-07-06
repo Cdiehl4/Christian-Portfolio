@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
   
-  body { 
+  body{ 
     font-family: Arial;
     color: #fff;
     background-color: red;
@@ -11,14 +11,14 @@
     flex-direction:column
     min: height 100vh;
     justify-content:flex-start;
-  }
+};
   
-  nav {
+nav {
     display:flex
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-}
+ }
   nav a {
     padding: 10px;
      text-align:center;
