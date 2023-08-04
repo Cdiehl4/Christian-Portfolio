@@ -1,7 +1,7 @@
-# Christian-Portfolio
-This is my Professional Portfolio
+# Password Generator
+This is my Password Generator
 # <Your-Project-Title>
- 
+ Password Generator
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
